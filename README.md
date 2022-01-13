@@ -16,6 +16,7 @@ The computer code and data files made available are distributed under the GNU LG
 <b>Related Data and Programs:</b>
 
 see https://people.sc.fsu.edu/~jburkardt/m_src/polyominoes/polyominoes.html
+for related programs, test programs, and additional information regarding usage.
 
 <b>References:</b>
 
