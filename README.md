@@ -5,14 +5,6 @@ with a finite collection of polyominoes. Very small problems can be solved using
 system. In general, however, an integer programming package, such as CPLEX, GUROBI, or SCIP, must be invoked to obtain
 solutions which are binary (only 0 or 1).
 
-<b>DOI:</b>
-
-[![DOI](https://zenodo.org/badge/447376100.svg)](https://zenodo.org/badge/latestdoi/447376100)
-
-<b>Cite as:</b>
-
-jvburkardt. (2022). jvburkardt/polyominoes: Initial release for Zenodo (v2.0.0). Zenodo. https://doi.org/10.5281/zenodo.5851118
-
 <b>Licensing:</b>
 
 The computer code and data files made available are distributed under the GNU LGPL license.
